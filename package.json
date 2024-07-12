@@ -1,0 +1,21 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "Full Stack",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+    
+  },
+  "keywords": [
+    "node",
+    "js",
+    "react"
+  ],
+  "author": "Long Quan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
